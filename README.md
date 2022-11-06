@@ -1,4 +1,3 @@
-<br>
 <h1 align="center">Hello there👋  , People call me Chanon</h1>
 <h3 align="center">A creative frontend developer. A UI collector. A passionate learner. A jazz lover.</h3>
 <br>
