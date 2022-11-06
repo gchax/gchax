@@ -1,8 +1,8 @@
-<h1 align="center">Hello there👋  , People call me Chanon</h1>
-<h3 align="center">A creative frontend developer. A UI collector. A passionate learner. A jazz lover.</h3>
+<h1 align="center">Hello There👋  , People Call Me Chanon</h1>
+<h3 align="center">A creative frontend developer🧑‍💻  A UI collector📱 A passionate learner🎓 A jazz lover🎺</h3>
 <br>
 
-- 🧑‍🎓 Currently a computer engineer student at [KMITL](https://www.kmitl.ac.th/)
+- 🏫 Currently a computer engineer student at [KMITL](https://www.kmitl.ac.th/)
 
 - 📄 View my [resume](https://github.com/gchax/Resume/blob/main/Resum%C3%A9.pdf)
 
