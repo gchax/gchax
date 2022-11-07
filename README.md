@@ -6,7 +6,7 @@
 
 - 📄 View my [resume](https://github.com/gchax/Resume/blob/main/Resum%C3%A9.pdf)
 
-- 📫 Email me @ **chanongul@gmail.com**
+- 📫 Email me: **chanongul@gmail.com**
 
 <br>
 <h3 align="center">My Skills</h3>
