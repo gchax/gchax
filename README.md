@@ -4,7 +4,7 @@
 
 - 🏫 Currently a computer engineer student at [KMITL](https://www.kmitl.ac.th/)
 
-- 📄 View my [resume](https://github.com/gchax/Resume/blob/main/Resum%C3%A9.pdf)
+- 📄 View my [resume](https://github.com/gchax/Resume/blob/main/Internship-Resum%C3%A9.pdf)
 
 - 📫 Email me: **chanongul@gmail.com**
 
